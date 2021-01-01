@@ -52,5 +52,17 @@
 
 .chat__bodyMessageName {
   position: absolute;
-  top: 0px;
+  top: -15px;
+  font-weight: 800;
+  font-size: xx-small;
+}
+
+.chat__bodyMessageTimestamp {
+  margin-left: 10px;
+  font-size: xx-small;
+}
+
+.chat__receiver {
+  margin-left: auto;
+  background-color: #dcf8c6;
 }
